@@ -3,4 +3,5 @@ Kalo ditanya kenapa ngga tulis stase alzheimer, bilang aja soalnya saya klasifik
 Emang bener kalo klasifikasi otak normal sama penderita Alzheimer itu kurang efektif? Emang ada datanya?  
 
 **9/6/22**  
-Kenapa yang dipake dalam fungsi aktivasi teh fungsi ReLu (misalnya)?
+- Kenapa yang dipake dalam fungsi aktivasi teh fungsi ReLu (misalnya)?  
+- Kapan pake dan apa bedanya ANN, FFNN, BP, MLP?
