@@ -5,3 +5,6 @@ Emang bener kalo klasifikasi otak normal sama penderita Alzheimer itu kurang efe
 **9/6/22**  
 - Kenapa yang dipake dalam fungsi aktivasi teh fungsi ReLu (misalnya)?  
 - Kapan pake dan apa bedanya ANN, FFNN, BP, MLP?
+
+**18/6/22**  
+Kenapa seringnya itu pake hidrogen?
